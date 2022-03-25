@@ -19,3 +19,5 @@ usage :
 python3 server.py
 
 python3 client.py
+
+for more example see the pictures in the file
